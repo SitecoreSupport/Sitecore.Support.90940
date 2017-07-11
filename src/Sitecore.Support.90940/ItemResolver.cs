@@ -1,7 +1,6 @@
 ﻿namespace Sitecore.Support.Pipelines.HttpRequest
 {
     using Sitecore;
-    using Sitecore.Data;
     using Sitecore.Data.ItemResolvers;
     using Sitecore.Data.Items;
     using Sitecore.Data.Managers;
